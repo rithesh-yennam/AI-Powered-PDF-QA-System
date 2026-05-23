@@ -27,8 +27,8 @@ RAG/
 └── chat_history.db         # SQLite database
 ⚙️ Installation & Setup
 Step 1 — Clone Repository
-git clone https://github.com/yourusername/RAG.git
-cd RAG
+git clone https://github.com/rithesh-yennam/AI-Powered-PDF-QA-System.git
+cd AI-Powered-PDF-QA-System
 Step 2 — Create Virtual Environment
 Windows
 python -m venv venv
