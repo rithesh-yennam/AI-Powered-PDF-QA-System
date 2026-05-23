@@ -1,0 +1,6 @@
+.env
+faiss_index/
+chat_history.db
+__pycache__/
+*.pyc
+venv/

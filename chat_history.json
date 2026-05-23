@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is GMDH?",
+        "answer": "GMDH (Group Method of Data Handling) is a type of neural network (NN) that uses polynomial activation functions and incremental layer growth and training by regression analysis. It is considered one of the first examples of open-ended, hierarchical representation learning in NNs, with the ability to learn the number of layers and units per layer in a problem-dependent fashion."
+    },
+    {
+        "question": "Why was it important?",
+        "answer": "The importance of the Neocognitron and other early neural network architectures lies in their influence on modern deep learning techniques. The Neocognitron's architecture, with alternating convolutional and downsampling layers, is similar to those of modern contest-winning deep learners. Additionally, the use of unsupervised learning rules and pre-wiring in the Neocognitron paved the way for later work on deep learning combinations of CNNs, Max-Pooling, and backpropagation."
+    },
+    {
+        "question": "Why was it important?",
+        "answer": "The Neocognitron's importance lies in its influence on modern deep learning techniques. Its architecture, with alternating convolutional and downsampling layers, is similar to those of modern contest-winning deep learners. The use of unsupervised learning rules and pre-wiring paved the way for later work on deep learning combinations of CNNs, Max-Pooling, and backpropagation, which modern deep learners benefit from."
+    }
+]
